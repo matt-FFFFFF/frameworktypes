@@ -1,4 +1,4 @@
-package frameworkType
+package frameworktype
 
 import (
 	"context"

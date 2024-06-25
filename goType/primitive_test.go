@@ -1,4 +1,4 @@
-package goType
+package gotype
 
 import (
 	"context"
